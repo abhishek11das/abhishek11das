@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Dasgupta</h1>
 <h3 align="center">Hands-on SQA and Automation Enthusiast | Building, Testing, and Learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek11das&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek11das" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek11das" alt="abhishek11das" /></a> </p>
 
 - 🔭 I’m currently working on **I'm currently working on backend projects using Spring Boot as I expand my skills in Java and API development**
