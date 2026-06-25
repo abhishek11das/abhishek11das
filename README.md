@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek11das" alt="abhishek11das" /></a> </p>
 
-- 🔭 I’m currently working on **I'm currently working on backend projects using Spring Boot as I expand my skills in Java and API development**
-
-- 🌱 I’m currently learning **test automation using Postman, Selenium, JMeter, and Java, while also building backend projects with Spring Boot.**
-
 - 📫 How to reach me **diptabhi206@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
